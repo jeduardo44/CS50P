@@ -1,4 +1,4 @@
-    Utilities App
+    Utilities App - project.py
     #### Video Demo:  https://youtu.be/eTMPmZFjopk
     #### Description: This is a command line argument that requires user to write the name of app that he wants to use. If the user inputs an invalid name or more than one name, an error message is retrieved. After the correct input of a existent name of an app, the user is conducted to the flow of the app that he selected and prompted for some inputs.
     This program consists in three independent apps.
